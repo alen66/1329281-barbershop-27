@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Аленчик](https://up.htmlacademy.ru/htmlcss/27/user/1329281).
+* Наставник: [Anna Linkova] (https://github.com/linkovanne)
 
 ---
 
